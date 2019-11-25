@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.92.180.87/XXX.ipa</string>
+					<string>https;//10.92.180.87/aa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://10.92.180.87/image57x57.png</string>
+					<string>https;//10.92.180.87/image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://10.92.180.87/image512x512.png</string>
+					<string>https;//10.92.180.87/image1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.zte.tuitui</string>
 				<key>bundle-version</key>
-				<string>3.0.8</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>推推forRAIS</string>
+				<string>TestForrRais</string>
 			</dict>
 		</dict>
 	</array>
